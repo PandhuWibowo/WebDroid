@@ -1,0 +1,1 @@
+[20-Feb-2017 13:42:42 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7

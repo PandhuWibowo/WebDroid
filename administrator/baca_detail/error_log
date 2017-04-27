@@ -1,0 +1,280 @@
+[14-Feb-2017 14:52:16 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 14:52:41 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 14:52:59 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 14:52:59 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 14:53:00 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 14:53:02 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 14:53:41 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 15:29:45 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 17:40:29 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 20:09:46 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 20:14:56 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 20:29:36 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 20:30:48 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 20:32:03 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[14-Feb-2017 20:46:14 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[15-Feb-2017 09:13:46 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[15-Feb-2017 15:23:10 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[15-Feb-2017 15:23:58 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[15-Feb-2017 17:40:17 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[15-Feb-2017 17:40:17 Asia/Jakarta] PHP Notice:  Undefined variable: judul_tutor in /home/rootorial/public_html/admin/baca_detail/entry.php on line 161
+[15-Feb-2017 17:40:17 Asia/Jakarta] PHP Notice:  Undefined variable: grav_kedua in /home/rootorial/public_html/admin/baca_detail/entry.php on line 164
+[15-Feb-2017 17:40:17 Asia/Jakarta] PHP Notice:  Undefined variable: nama_admin in /home/rootorial/public_html/admin/baca_detail/entry.php on line 166
+[15-Feb-2017 17:40:17 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_publish in /home/rootorial/public_html/admin/baca_detail/entry.php on line 167
+[15-Feb-2017 17:40:17 Asia/Jakarta] PHP Notice:  Undefined offset: -1 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 111
+[15-Feb-2017 17:40:17 Asia/Jakarta] PHP Notice:  Undefined variable: jenis_bhs in /home/rootorial/public_html/admin/baca_detail/entry.php on line 171
+[15-Feb-2017 17:40:17 Asia/Jakarta] PHP Notice:  Undefined variable: cat_info in /home/rootorial/public_html/admin/baca_detail/entry.php on line 175
+[15-Feb-2017 17:40:17 Asia/Jakarta] PHP Notice:  Undefined variable: isi_content4 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 191
+[15-Feb-2017 17:44:13 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[15-Feb-2017 17:48:34 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[15-Feb-2017 17:50:38 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 00:35:59 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 09:28:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 10:33:49 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 10:36:02 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 10:36:19 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 15:02:19 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 15:42:34 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 15:44:56 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 15:45:11 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 15:45:51 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 15:46:03 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 15:51:25 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 18:02:25 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 18:02:26 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 18:09:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 19:44:20 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 23:18:40 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 23:19:33 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 23:23:15 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 23:31:05 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 23:32:04 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 23:34:23 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[16-Feb-2017 23:40:01 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 00:26:58 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 00:27:43 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 00:27:51 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 09:45:31 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 09:45:41 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 09:46:39 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 10:01:34 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 11:18:26 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 14:29:58 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 15:13:59 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 15:14:12 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 17:53:15 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 18:01:53 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 18:07:01 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 18:10:51 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 18:11:46 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 18:15:01 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 18:19:25 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 18:19:42 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 18:19:59 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 19:22:33 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 19:22:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 19:23:57 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 19:27:04 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 19:27:28 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 19:39:20 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 20:22:40 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 20:44:50 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 21:52:32 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 22:24:18 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 23:26:26 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 23:54:57 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 23:56:09 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 23:57:36 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 23:57:38 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 23:57:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[17-Feb-2017 23:59:22 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:01:06 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:02:26 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:04:04 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:05:34 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:26:37 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:27:55 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:28:33 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:28:57 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:29:34 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:30:44 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:32:01 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:37:35 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:40:15 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:41:41 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:42:29 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:43:22 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:44:32 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:46:04 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:46:48 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:47:24 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:47:56 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:48:08 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:49:30 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:52:31 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:53:02 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:57:30 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:57:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:57:56 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 00:58:02 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:01:49 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:01:49 Asia/Jakarta] PHP Notice:  Undefined variable: judul_tutor in /home/rootorial/public_html/admin/baca_detail/entry.php on line 189
+[18-Feb-2017 01:01:49 Asia/Jakarta] PHP Notice:  Undefined variable: grav_kedua in /home/rootorial/public_html/admin/baca_detail/entry.php on line 192
+[18-Feb-2017 01:01:49 Asia/Jakarta] PHP Notice:  Undefined variable: nama_admin in /home/rootorial/public_html/admin/baca_detail/entry.php on line 194
+[18-Feb-2017 01:01:49 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_publish in /home/rootorial/public_html/admin/baca_detail/entry.php on line 195
+[18-Feb-2017 01:01:49 Asia/Jakarta] PHP Notice:  Undefined offset: -1 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 139
+[18-Feb-2017 01:01:49 Asia/Jakarta] PHP Notice:  Undefined variable: jenis_bhs in /home/rootorial/public_html/admin/baca_detail/entry.php on line 199
+[18-Feb-2017 01:01:49 Asia/Jakarta] PHP Notice:  Undefined variable: cat_info in /home/rootorial/public_html/admin/baca_detail/entry.php on line 203
+[18-Feb-2017 01:01:49 Asia/Jakarta] PHP Notice:  Undefined variable: isi_content4 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 219
+[18-Feb-2017 01:02:51 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:03:08 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:03:16 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:03:32 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:04:05 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:05:36 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:06:25 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:08:00 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:08:06 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:08:22 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:35:25 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 01:35:53 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 03:22:35 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 03:28:37 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 03:32:26 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 06:09:27 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 06:09:27 Asia/Jakarta] PHP Notice:  Undefined variable: judul_tutor in /home/rootorial/public_html/admin/baca_detail/entry.php on line 161
+[18-Feb-2017 06:09:27 Asia/Jakarta] PHP Notice:  Undefined variable: grav_kedua in /home/rootorial/public_html/admin/baca_detail/entry.php on line 164
+[18-Feb-2017 06:09:27 Asia/Jakarta] PHP Notice:  Undefined variable: nama_admin in /home/rootorial/public_html/admin/baca_detail/entry.php on line 166
+[18-Feb-2017 06:09:27 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_publish in /home/rootorial/public_html/admin/baca_detail/entry.php on line 167
+[18-Feb-2017 06:09:27 Asia/Jakarta] PHP Notice:  Undefined offset: -1 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 111
+[18-Feb-2017 06:09:27 Asia/Jakarta] PHP Notice:  Undefined variable: jenis_bhs in /home/rootorial/public_html/admin/baca_detail/entry.php on line 171
+[18-Feb-2017 06:09:27 Asia/Jakarta] PHP Notice:  Undefined variable: cat_info in /home/rootorial/public_html/admin/baca_detail/entry.php on line 175
+[18-Feb-2017 06:09:27 Asia/Jakarta] PHP Notice:  Undefined variable: isi_content4 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 191
+[18-Feb-2017 11:09:25 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:08:58 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:11:55 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:13:19 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:14:07 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:14:46 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:15:11 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:17:31 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:20:39 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:21:34 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:38:03 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:39:40 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 16:51:42 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 17:04:07 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 17:18:08 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 17:18:23 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 17:18:36 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 17:18:37 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 17:23:56 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 17:25:10 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 17:25:25 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 18:12:21 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 19:33:28 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 20:28:06 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 21:45:35 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 21:45:35 Asia/Jakarta] PHP Notice:  Undefined variable: judul_tutor in /home/rootorial/public_html/admin/baca_detail/entry.php on line 161
+[18-Feb-2017 21:45:35 Asia/Jakarta] PHP Notice:  Undefined variable: grav_kedua in /home/rootorial/public_html/admin/baca_detail/entry.php on line 164
+[18-Feb-2017 21:45:35 Asia/Jakarta] PHP Notice:  Undefined variable: nama_admin in /home/rootorial/public_html/admin/baca_detail/entry.php on line 166
+[18-Feb-2017 21:45:35 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_publish in /home/rootorial/public_html/admin/baca_detail/entry.php on line 167
+[18-Feb-2017 21:45:35 Asia/Jakarta] PHP Notice:  Undefined offset: -1 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 111
+[18-Feb-2017 21:45:35 Asia/Jakarta] PHP Notice:  Undefined variable: jenis_bhs in /home/rootorial/public_html/admin/baca_detail/entry.php on line 171
+[18-Feb-2017 21:45:35 Asia/Jakarta] PHP Notice:  Undefined variable: cat_info in /home/rootorial/public_html/admin/baca_detail/entry.php on line 175
+[18-Feb-2017 21:45:35 Asia/Jakarta] PHP Notice:  Undefined variable: isi_content4 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 191
+[18-Feb-2017 21:57:28 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[18-Feb-2017 21:57:28 Asia/Jakarta] PHP Notice:  Undefined variable: judul_tutor in /home/rootorial/public_html/admin/baca_detail/entry.php on line 161
+[18-Feb-2017 21:57:28 Asia/Jakarta] PHP Notice:  Undefined variable: grav_kedua in /home/rootorial/public_html/admin/baca_detail/entry.php on line 164
+[18-Feb-2017 21:57:28 Asia/Jakarta] PHP Notice:  Undefined variable: nama_admin in /home/rootorial/public_html/admin/baca_detail/entry.php on line 166
+[18-Feb-2017 21:57:28 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_publish in /home/rootorial/public_html/admin/baca_detail/entry.php on line 167
+[18-Feb-2017 21:57:28 Asia/Jakarta] PHP Notice:  Undefined offset: -1 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 111
+[18-Feb-2017 21:57:28 Asia/Jakarta] PHP Notice:  Undefined variable: jenis_bhs in /home/rootorial/public_html/admin/baca_detail/entry.php on line 171
+[18-Feb-2017 21:57:28 Asia/Jakarta] PHP Notice:  Undefined variable: cat_info in /home/rootorial/public_html/admin/baca_detail/entry.php on line 175
+[18-Feb-2017 21:57:28 Asia/Jakarta] PHP Notice:  Undefined variable: isi_content4 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 191
+[19-Feb-2017 01:03:07 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[19-Feb-2017 01:03:07 Asia/Jakarta] PHP Notice:  Undefined variable: judul_tutor in /home/rootorial/public_html/admin/baca_detail/entry.php on line 161
+[19-Feb-2017 01:03:07 Asia/Jakarta] PHP Notice:  Undefined variable: grav_kedua in /home/rootorial/public_html/admin/baca_detail/entry.php on line 164
+[19-Feb-2017 01:03:07 Asia/Jakarta] PHP Notice:  Undefined variable: nama_admin in /home/rootorial/public_html/admin/baca_detail/entry.php on line 166
+[19-Feb-2017 01:03:07 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_publish in /home/rootorial/public_html/admin/baca_detail/entry.php on line 167
+[19-Feb-2017 01:03:07 Asia/Jakarta] PHP Notice:  Undefined offset: -1 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 111
+[19-Feb-2017 01:03:07 Asia/Jakarta] PHP Notice:  Undefined variable: jenis_bhs in /home/rootorial/public_html/admin/baca_detail/entry.php on line 171
+[19-Feb-2017 01:03:07 Asia/Jakarta] PHP Notice:  Undefined variable: cat_info in /home/rootorial/public_html/admin/baca_detail/entry.php on line 175
+[19-Feb-2017 01:03:07 Asia/Jakarta] PHP Notice:  Undefined variable: isi_content4 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 191
+[19-Feb-2017 02:37:52 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[19-Feb-2017 13:39:15 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[19-Feb-2017 15:34:16 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[19-Feb-2017 22:52:05 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 02:46:01 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 08:41:17 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 08:41:31 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 08:43:54 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 10:00:48 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 13:04:53 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 13:39:05 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 13:39:40 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 13:59:01 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 16:19:57 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 16:30:01 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 17:54:12 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 17:54:12 Asia/Jakarta] PHP Notice:  Undefined variable: judul_tutor in /home/rootorial/public_html/admin/baca_detail/entry.php on line 161
+[20-Feb-2017 17:54:12 Asia/Jakarta] PHP Notice:  Undefined variable: grav_kedua in /home/rootorial/public_html/admin/baca_detail/entry.php on line 164
+[20-Feb-2017 17:54:12 Asia/Jakarta] PHP Notice:  Undefined variable: nama_admin in /home/rootorial/public_html/admin/baca_detail/entry.php on line 166
+[20-Feb-2017 17:54:12 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_publish in /home/rootorial/public_html/admin/baca_detail/entry.php on line 167
+[20-Feb-2017 17:54:12 Asia/Jakarta] PHP Notice:  Undefined offset: -1 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 111
+[20-Feb-2017 17:54:12 Asia/Jakarta] PHP Notice:  Undefined variable: jenis_bhs in /home/rootorial/public_html/admin/baca_detail/entry.php on line 171
+[20-Feb-2017 17:54:12 Asia/Jakarta] PHP Notice:  Undefined variable: cat_info in /home/rootorial/public_html/admin/baca_detail/entry.php on line 175
+[20-Feb-2017 17:54:12 Asia/Jakarta] PHP Notice:  Undefined variable: isi_content4 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 191
+[20-Feb-2017 17:58:23 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[20-Feb-2017 22:36:45 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[21-Feb-2017 02:03:56 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[21-Feb-2017 02:04:33 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[21-Feb-2017 02:04:41 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[21-Feb-2017 02:04:41 Asia/Jakarta] PHP Notice:  Undefined variable: judul_tutor in /home/rootorial/public_html/admin/baca_detail/entry.php on line 161
+[21-Feb-2017 02:04:41 Asia/Jakarta] PHP Notice:  Undefined variable: grav_kedua in /home/rootorial/public_html/admin/baca_detail/entry.php on line 164
+[21-Feb-2017 02:04:41 Asia/Jakarta] PHP Notice:  Undefined variable: nama_admin in /home/rootorial/public_html/admin/baca_detail/entry.php on line 166
+[21-Feb-2017 02:04:41 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_publish in /home/rootorial/public_html/admin/baca_detail/entry.php on line 167
+[21-Feb-2017 02:04:41 Asia/Jakarta] PHP Notice:  Undefined offset: -1 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 111
+[21-Feb-2017 02:04:41 Asia/Jakarta] PHP Notice:  Undefined variable: jenis_bhs in /home/rootorial/public_html/admin/baca_detail/entry.php on line 171
+[21-Feb-2017 02:04:41 Asia/Jakarta] PHP Notice:  Undefined variable: cat_info in /home/rootorial/public_html/admin/baca_detail/entry.php on line 175
+[21-Feb-2017 02:04:41 Asia/Jakarta] PHP Notice:  Undefined variable: isi_content4 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 191
+[21-Feb-2017 02:13:55 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: judul_tutor in /home/rootorial/public_html/admin/baca_detail/entry.php on line 161
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: grav_kedua in /home/rootorial/public_html/admin/baca_detail/entry.php on line 164
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: nama_admin in /home/rootorial/public_html/admin/baca_detail/entry.php on line 166
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_publish in /home/rootorial/public_html/admin/baca_detail/entry.php on line 167
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined offset: -1 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 111
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: jenis_bhs in /home/rootorial/public_html/admin/baca_detail/entry.php on line 171
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: cat_info in /home/rootorial/public_html/admin/baca_detail/entry.php on line 175
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: isi_content4 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 191
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/rootorial/public_html/admin/baca_detail/entry.php on line 286
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/rootorial/public_html/admin/baca_detail/entry.php on line 289
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/rootorial/public_html/admin/baca_detail/entry.php on line 292
+[21-Feb-2017 02:14:02 Asia/Jakarta] PHP Notice:  Undefined variable: hasil in /home/rootorial/public_html/admin/baca_detail/entry.php on line 298
+[21-Feb-2017 07:55:16 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[21-Feb-2017 08:04:05 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[21-Feb-2017 08:04:05 Asia/Jakarta] PHP Notice:  Undefined variable: judul_tutor in /home/rootorial/public_html/admin/baca_detail/entry.php on line 161
+[21-Feb-2017 08:04:05 Asia/Jakarta] PHP Notice:  Undefined variable: grav_kedua in /home/rootorial/public_html/admin/baca_detail/entry.php on line 164
+[21-Feb-2017 08:04:05 Asia/Jakarta] PHP Notice:  Undefined variable: nama_admin in /home/rootorial/public_html/admin/baca_detail/entry.php on line 166
+[21-Feb-2017 08:04:05 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_publish in /home/rootorial/public_html/admin/baca_detail/entry.php on line 167
+[21-Feb-2017 08:04:05 Asia/Jakarta] PHP Notice:  Undefined offset: -1 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 111
+[21-Feb-2017 08:04:05 Asia/Jakarta] PHP Notice:  Undefined variable: jenis_bhs in /home/rootorial/public_html/admin/baca_detail/entry.php on line 171
+[21-Feb-2017 08:04:05 Asia/Jakarta] PHP Notice:  Undefined variable: cat_info in /home/rootorial/public_html/admin/baca_detail/entry.php on line 175
+[21-Feb-2017 08:04:05 Asia/Jakarta] PHP Notice:  Undefined variable: isi_content4 in /home/rootorial/public_html/admin/baca_detail/entry.php on line 191
+[21-Feb-2017 13:05:03 Asia/Jakarta] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/admin/koneksi.php on line 7
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/rootorial/public_html/baca_detail/entry.php on line 103
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/rootorial/public_html/baca_detail/entry.php on line 103
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/rootorial/public_html/baca_detail/entry.php on line 103
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/rootorial/public_html/baca_detail/entry.php on line 118
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rootorial/public_html/baca_detail/entry.php on line 118
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Warning:  mysql_query(): A link to the server could not be established in /home/rootorial/public_html/baca_detail/entry.php on line 118
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rootorial/public_html/baca_detail/entry.php on line 120
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Notice:  Undefined variable: judul_tutor in /home/rootorial/public_html/baca_detail/entry.php on line 161
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Notice:  Undefined variable: grav_kedua in /home/rootorial/public_html/baca_detail/entry.php on line 164
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Notice:  Undefined variable: nama_admin in /home/rootorial/public_html/baca_detail/entry.php on line 166
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Notice:  Undefined variable: tgl_publish in /home/rootorial/public_html/baca_detail/entry.php on line 167
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Notice:  Undefined offset: -1 in /home/rootorial/public_html/baca_detail/entry.php on line 111
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Notice:  Undefined variable: jenis_bhs in /home/rootorial/public_html/baca_detail/entry.php on line 171
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Notice:  Undefined variable: cat_info in /home/rootorial/public_html/baca_detail/entry.php on line 175
+[21-Feb-2017 13:08:14 Asia/Jakarta] PHP Notice:  Undefined variable: isi_content4 in /home/rootorial/public_html/baca_detail/entry.php on line 191
